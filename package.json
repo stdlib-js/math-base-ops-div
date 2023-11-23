@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-ops-div",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Divide two double-precision floating-point numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -44,7 +44,7 @@
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/constants-float64-ninf": "^0.1.1",
     "@stdlib/constants-float64-pinf": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
